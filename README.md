@@ -6,4 +6,5 @@ This repository contains all of the notes taken by [Karolina](https://github.com
 
 ### Table of contents
 * [Week one](/Week_1)
-  * [Day 1](/Week_1/Day_1)
+  * [Day 1](/Week_1/Day_1/)
+
